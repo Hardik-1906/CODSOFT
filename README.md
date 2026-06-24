@@ -11,3 +11,15 @@ Technologies:
 - Pandas
 - Scikit-Learn
 - Linear Regression
+## Task 3 - Iris Flower Classification
+
+Machine Learning model that classifies Iris flowers into:
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+Algorithm Used:
+- Random Forest Classifier
+
+Accuracy Achieved:
+- 100%
